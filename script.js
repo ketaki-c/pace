@@ -112,3 +112,4 @@ function showResults() {
     `;
     quizStarted = false;
 }
+    
